@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "f2d3f6c3d1061003",
+    "id": "d3b58f6619f4d33b",
     "type": "split",
     "children": [
       {
-        "id": "ad5ad91028c2e63d",
+        "id": "3536e690c73dc094",
         "type": "tabs",
         "children": [
           {
-            "id": "0c60e32017a4730d",
+            "id": "dc5ee55b0d7816f6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Quick Notes.one (On 1-4-2024)/005_Installing a Second Domain Controller in Active Directory Domain Services for Fault Tolerance .md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d7ba03dc166b0751",
+    "id": "386e5b38fbe138f9",
     "type": "split",
     "children": [
       {
-        "id": "b4c6a36762222ec1",
+        "id": "c763186ea3b9e9b4",
         "type": "tabs",
         "children": [
           {
-            "id": "706ab42c21f5c19f",
+            "id": "796b3398b289b4ea",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "e5838cccf0f8ead6",
+            "id": "ba75f0ed90ed3750",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "c5ad6b7b2bc6cf08",
+            "id": "c1b0c0961f282d3b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "caec0413dbf2f0b0",
+    "id": "6a105081c518bf9e",
     "type": "split",
     "children": [
       {
-        "id": "400ad7caf39c3032",
+        "id": "05ff28f98bf4c51f",
         "type": "tabs",
         "children": [
           {
-            "id": "f631039a3790e88b",
+            "id": "9a8ecd7b283e6c0f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Quick Notes.one (On 1-4-2024)/005_Installing a Second Domain Controller in Active Directory Domain Services for Fault Tolerance .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "b47f286dfc303bc5",
+            "id": "77759c8815b5d0dd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Quick Notes.one (On 1-4-2024)/005_Installing a Second Domain Controller in Active Directory Domain Services for Fault Tolerance .md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1f9bcf9140e2d55e",
+            "id": "19d6089c4f999979",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "0f6534b29e7a3fe7",
+            "id": "c0b2ab8b9232a8f0",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Quick Notes.one (On 1-4-2024)/005_Installing a Second Domain Controller in Active Directory Domain Services for Fault Tolerance .md"
+              }
             }
           }
         ]
@@ -138,8 +146,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "706ab42c21f5c19f",
+  "active": "dc5ee55b0d7816f6",
   "lastOpenFiles": [
-    "AD"
+    "Quick Notes.one (On 1-4-2024)/002_DHCP lab.md",
+    "Quick Notes.one (On 1-4-2024)/assets/003_Dhcp_loadbalancing_and_failover_008.png",
+    "Quick Notes.one (On 1-4-2024)/assets/004_Active_directory_006.png",
+    "Quick Notes.one (On 1-4-2024)/assets/004_Active_directory_021.png",
+    "Quick Notes.one (On 1-4-2024)/assets/004_Active_directory_051.png",
+    "Quick Notes.one (On 1-4-2024)/assets/006_Configuring_a_Client-to-Site_VPN_using_RADIUS_(NPS)_Server_Authentication_in_Windows_Server_2022__055.png",
+    "Quick Notes.one (On 1-4-2024)/assets/006_Configuring_a_Client-to-Site_VPN_using_RADIUS_(NPS)_Server_Authentication_in_Windows_Server_2022__058.png",
+    "Quick Notes.one (On 1-4-2024)/assets/006_Configuring_a_Client-to-Site_VPN_using_RADIUS_(NPS)_Server_Authentication_in_Windows_Server_2022__057.png",
+    "Quick Notes.one (On 1-4-2024)/assets/006_Configuring_a_Client-to-Site_VPN_using_RADIUS_(NPS)_Server_Authentication_in_Windows_Server_2022__054.png",
+    "Quick Notes.one (On 1-4-2024)/assets/004_Active_directory_053.png",
+    "Quick Notes.one (On 1-4-2024)/assets/001_DHCP_Secondary_011.png",
+    "Quick Notes.one (On 1-4-2024)/003_Dhcp loadbalancing and failover.md",
+    "Quick Notes.one (On 1-4-2024)/000_DNS standalone lab.md",
+    "Quick Notes/000_Untitled page.md",
+    "Quick Notes.one (On 1-4-2024)/007_Untitled page.pdf",
+    "Quick Notes.one (On 1-4-2024)/007_Untitled page.md",
+    "Quick Notes.one (On 1-4-2024)/~WRL0001.tmp",
+    "Quick Notes.one (On 1-4-2024)/~WRD0000.tmp",
+    "Quick Notes.one (On 1-4-2024)/~$7_Untitled page.docx",
+    "Quick Notes.one (On 1-4-2024)/007_Untitled page.docx",
+    "Quick Notes.one (On 1-4-2024)/006_Configuring a Client-to-Site VPN using RADIUS (NPS) Server Authentication in Windows Server 2022 .pdf",
+    "Quick Notes.one (On 1-4-2024)/006_Configuring a Client-to-Site VPN using RADIUS (NPS) Server Authentication in Windows Server 2022 .md",
+    "Quick Notes.one (On 1-4-2024)/~$6_Configuring a Client-to-Site VPN using RADIUS (NPS) Server Authentication in Windows Server 2022 .docx",
+    "Quick Notes.one (On 1-4-2024)/006_Configuring a Client-to-Site VPN using RADIUS (NPS) Server Authentication in Windows Server 2022 .docx",
+    "Quick Notes.one (On 1-4-2024)/005_Installing a Second Domain Controller in Active Directory Domain Services for Fault Tolerance .pdf",
+    "Quick Notes.one (On 1-4-2024)/005_Installing a Second Domain Controller in Active Directory Domain Services for Fault Tolerance .md",
+    "Quick Notes.one (On 1-4-2024)/~$5_Installing a Second Domain Controller in Active Directory Domain Services for Fault Tolerance .docx",
+    "Quick Notes.one (On 1-4-2024)/004_Active directory.md",
+    "Quick Notes.one (On 1-4-2024)/001_DHCP Secondary.md",
+    "Quick Notes/000_test.md"
   ]
 }
