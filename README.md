@@ -6,7 +6,7 @@ just a collection of AD stuff that you might find useful for labbing
 [DHCP setup](https://github.com/VietTheBarbarian/AD/blob/main/Quick%20Notes.one%20(On%201-4-2024)/001_DHCP%20lab.md 'DHCP setup')
 
 
-[DHCP secondary]([https://github.com/VietTheBarbarian/AD/blob/main/Quick%20Notes.one%20(On%201-4-2024)/002_DHCP%20Secondary.md 'DHCP secondary')
+[DHCP secondary](https://github.com/VietTheBarbarian/AD/blob/main/Quick%20Notes.one%20(On%201-4-2024)/002_DHCP%20Secondary.md 'DHCP secondary')
 
 
 [DHCP loadbalancing and failover](https://github.com/VietTheBarbarian/AD/blob/main/Quick%20Notes.one%20(On%201-4-2024)/003_Dhcp%20loadbalancing%20and%20failover.md 'Failover DHCP setup')
